@@ -1,0 +1,2 @@
+SemiProject/.metadata/*
+SemiProject/Servers/*
