@@ -1,2 +1,2 @@
-SemiProject/.metadata/*
-SemiProject/Servers/*
+SemiProject/.metadata/
+SemiProject/Servers/
