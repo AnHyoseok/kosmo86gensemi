@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\work\kosmo86gensemi\SemiProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-518076919.index
-3571745796.index
-3097195164.index
-3595506141.index
-1076816243.index
-2971908178.index
